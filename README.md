@@ -161,4 +161,4 @@ meme-vault/
 ---
 
 **開發者**: [Kyosora](https://github.com/kyosora)
-**技術支援**: Claude Code (ENI)
+**技術支援**: Claude Code
